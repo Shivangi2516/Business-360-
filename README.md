@@ -58,4 +58,14 @@ In this project, we have followed the Snowflake schema data modeling method.
 
 
 
+#Power BI Dashboard Overview:
+
+The dashboard contains six pages-->
+
+ #Home Page: A landing page with buttons to navigate to different pages.
+
+
+
+
+
 
