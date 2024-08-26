@@ -12,4 +12,10 @@ To surpass competitors and enable data-driven decision-making, the company has d
 
 I worked on this project by following the Codebasics PowerBi Course,
 
+here is my report link :
+
+https://app.powerbi.com/view?r=eyJrIjoiNjZhNjY4OTUtN2FjZS00NjEzLWIxZjQtZDE3MDUxODA4NzA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
 
