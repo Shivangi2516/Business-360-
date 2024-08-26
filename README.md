@@ -95,18 +95,27 @@ Executive Page: Provides an overview of the organization's performance for top m
 
 
 #Skills Learned:
+
+
 During the Codebasics Bootcamp course and this project, I learned: Power BI fundamentals, Calculated columns and DAX measures, Data Modeling, Data Cleaning, Bookmarks, Conditional formatting, Custom Tooltip usage, Dynamic Title Creation, and more.
 
 
+
 #Tools Used:
+
+
 SQL, Power BI Desktop, DAX language, DAX studio (to reduce file size), Project Charter file.
 
 
 #Business Terms Learned:
+
+
 Gross Margin, Gross Margin %, Gross Sales, Gross Sales %, Pre-invoice deductions, Post-invoice deductions, Net sales, Net Invoice Sales, Net Profit, Net Profit %, COGS (cost of goods sold), YTG (year to go), YTD (year to date), Direct, Retailer, Consumer, Distributors.
 
 
 #Conclusion :
+
+
 This report empowers decision-making based on data, addressing numerous "why" questions across various scenarios. It serves as a tool to extract insights and guide actions, ultimately aiming to enhance AltiQ's profitability through data-driven decisions.
 
 
