@@ -17,5 +17,42 @@ here is my report link :
 https://app.powerbi.com/view?r=eyJrIjoiNjZhNjY4OTUtN2FjZS00NjEzLWIxZjQtZDE3MDUxODA4NzA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
+#Datasets:
+
+
+Before starting the analysis, understanding the datasets is important. The datasets consist of two tables:
+
+Dimension table: Static data like customer and product details.
+
+Fact table: Transaction data.
+
+gdb041:
+
+dim_customer
+dim_market
+dim_product
+fact_forecast_monthly - This table is used to forecast the customer’s need in advance, which can help in Higher customer satisfaction and reduced cost in warehouses for storage purposes
+fact_sales_monthly - This table is more or less is same as the fact_forecast_monthly table, but the last column has the value of the sold quantity instead of the forecast value.
+gdb056:
+
+freight_cost
+gross_price
+manufacturing_cost
+Pre_invoice_dedutions
+Post_invoice_deductions
+Importing Data and Data Modeling:
+Data was imported from MySQL into Power BI, and a data model was created after cleaning and transforming the data. But why data modeling is very important for analysis right??
+
+If you break down the whole work of a data analyst then you will come up with 4 steps of work
+
+✅ Data Extract ---> ✅ Data Cleaning---> ✅ Data Modelling ---> ✅ Data Analysis
+
+See you can't skip the 3rd step if you want to reach the last step (analysis part), Data modeling is essential because it lays the foundation for reports. All visuals are built upon the data model, and poor modeling can affect report performance.
+
+In this project, we have followed the Snowflake schema data modeling method.
+
+
+
+
 
 
