@@ -52,6 +52,9 @@ See you can't skip the 3rd step if you want to reach the last step (analysis par
 In this project, we have followed the Snowflake schema data modeling method.
 
 
+![image](https://github.com/user-attachments/assets/30ca5626-5a9f-468c-8b28-87c75b3e2145)
+
+
 
 
 
